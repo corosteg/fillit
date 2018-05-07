@@ -1,2 +1,7 @@
 # fillit
-USAGE: ./fillit map.txt 
+
+# INSTALLING
+MAKE;
+
+# USAGE:
+./fillit map.txt 
